@@ -11,7 +11,7 @@
  5| [     Sorted    ]
 ```
 2- Big-O gösterimini yazınız.
-> O(  N^2 )
+> O(  N^2 ) -> N:6 -> O(6^2) -> O(36)
 
 #### Time Complexity
 * Average case  : Aradığımız sayının ortada olması
