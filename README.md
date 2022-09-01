@@ -1,7 +1,13 @@
-# PatikaDevJava_InsertionSort
+# PatikaDevJava - Sorting Types
 [Patika Dev](www.patika.dev) - Java / Insertion Sort Projesi
-
-### **[22,27,16,2,18,6] -> Insertion Sort**
+### Titles
+* [Insertion Sort](https://github.com/REFUPANKER/PatikaDevJava_InsertionSort/edit/C%23-Python-Java/(HTML-CSS-Javascript)/README.md#insertion-sort)
+* [Merge Sort](https://github.com/REFUPANKER/PatikaDevJava_InsertionSort/edit/C%23-Python-Java/(HTML-CSS-Javascript)/README.md#merge-sort)
+---
+## Insertion Sort
+```java
+[22,27,16,2,18,6]
+```
 1- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 ```Java
  1| [16,22,27,2,18,6]
@@ -26,3 +32,8 @@
 3|-> 2,3,5,7,8,9,4,15,6
 4|-> 2,3,4,5,7,8,9,15,6
 ```
+## Merge Sort
+```java
+[16,21,11,8,12,22]
+```
+1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
