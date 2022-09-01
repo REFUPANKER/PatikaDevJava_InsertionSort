@@ -48,6 +48,8 @@
 
 ## Binary Search Tree
 1- [7,5,1,8,3,6,0,9,4,2] Dizisinin Binary-Search-Tree aşamalarını yazınız.
-
+<br/>
+<img width="600" height="280" src="https://user-images.githubusercontent.com/68808212/187891975-bb02b65d-7a2f-47b4-855e-079dfed2698c.png"/>
+<br/>
 ---
-### Veri Yapıları ve Algoritmalar [ Insertion ve Merge sort Projeleri ]- www.patika.dev
+### Veri Yapıları ve Algoritmalar [ Insertion Sort,Merge sort ve Binary Search Tree Projeleri ] - www.patika.dev
