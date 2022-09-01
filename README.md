@@ -37,3 +37,8 @@
 [16,21,11,8,12,22]
 ```
 1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+<br>
+<img width="400" height="300" algin="left" src="https://user-images.githubusercontent.com/68808212/187883638-5d0316b4-7349-4427-ab4f-8984066f85f1.png"/>
+<br>
+2- Big-O gösterimini yazınız.
+> O(nLogn) -> O(6log6) -> O(4.6689075023)
