@@ -1,4 +1,4 @@
-# PatikaDevJava - Sorting Types
+# PatikaDev - Sorting Types
 [Patika Dev](www.patika.dev) - Java / Insertion Sort Projesi
 ### Titles
 * [Insertion Sort](https://github.com/REFUPANKER/PatikaDevJava_InsertionSort/edit/C%23-Python-Java/(HTML-CSS-Javascript)/README.md#insertion-sort)
