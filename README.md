@@ -52,4 +52,6 @@
 <img width="600" height="280" src="https://user-images.githubusercontent.com/68808212/187891975-bb02b65d-7a2f-47b4-855e-079dfed2698c.png"/>
 <br/>
 ---
-### Veri Yapıları ve Algoritmalar [ Insertion Sort,Merge sort ve Binary Search Tree Projeleri ] - www.patika.dev
+### Veri Yapıları ve Algoritmalar [ Insertion Sort,Merge sort ve Binary Search Tree Projeleri ] 
+<br/>
+www.patika.dev
