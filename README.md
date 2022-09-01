@@ -1,5 +1,5 @@
 # PatikaDev - Sorting Types
-[Patika Dev](www.patika.dev) - Java / Insertion Sort Projesi
+[Patika Dev](www.patika.dev) - Veri Yapıları ve Algoritmalar Projeleri
 ### Titles
 * [Insertion Sort](https://github.com/REFUPANKER/PatikaDev_SortingTypes#insertion-sort)
 * [Merge Sort](https://github.com/REFUPANKER/PatikaDev_SortingTypes#merge-sort)
