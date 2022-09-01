@@ -2,7 +2,7 @@
 [Patika Dev](www.patika.dev) - Java / Insertion Sort Projesi
 ### Titles
 * [Insertion Sort](https://github.com/REFUPANKER/PatikaDev_SortingTypes#insertion-sort)
-* [Merge Sort](https://github.com/REFUPANKER/PatikaDev_SortingTypes#insertion-sort#merge-sort)
+* [Merge Sort](https://github.com/REFUPANKER/PatikaDev_SortingTypes#merge-sort)
 ---
 ## Insertion Sort
 ```java
