@@ -42,3 +42,5 @@
 <br>
 2- Big-O gösterimini yazınız.
 > O(nLogn) -> O(6log6) -> O(4.6689075023)
+---
+### Veri Yapıları ve Algoritmalar [ Insertion ve Merge sort Projeleri ]- www.patika.dev
